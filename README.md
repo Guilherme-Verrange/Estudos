@@ -1,2 +1,2 @@
 # Estudos
-aplicação de aprendizados
+Um template de login simples, bonito e responsivo para dispositivos moveis.
